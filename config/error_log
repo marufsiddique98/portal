@@ -1,0 +1,28 @@
+[01-Oct-2024 12:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cftcgrfj/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/filesystems.php on line 16
+[01-Oct-2024 12:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cftcgrfj/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/hashing.php on line 32
+[01-Oct-2024 12:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Maatwebsite\Excel\Excel" not found in /home/cftcgrfj/public_html/config/excel.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/excel.php on line 164
+[01-Oct-2024 12:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cftcgrfj/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/services.php on line 18
+[01-Oct-2024 12:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cftcgrfj/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/queue.php on line 16
+[01-Oct-2024 12:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/cftcgrfj/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/view.php on line 17
+[01-Oct-2024 12:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cftcgrfj/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/config/cache.php on line 18

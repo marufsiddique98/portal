@@ -1,0 +1,16 @@
+[01-Oct-2024 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/cftcgrfj/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/tests/TestCase.php on line 7
+[01-Oct-2024 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/cftcgrfj/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/tests/TestCase.php on line 7
+[01-Oct-2024 01:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/cftcgrfj/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/tests/TestCase.php on line 7
+[01-Oct-2024 01:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/cftcgrfj/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cftcgrfj/public_html/tests/TestCase.php on line 7
